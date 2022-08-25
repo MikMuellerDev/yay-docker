@@ -1,5 +1,5 @@
 repository := mikmuellerdev/yay
-tag := yay_v11.2.0_libalpm_v13.0.1
+tag := yay_v11.3.0_libalpm_v13.0.1
 
 latest-tag:
 	docker run -it \
